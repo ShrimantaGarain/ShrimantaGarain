@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KyrusGG</h1>
 
-![DISCORD](https://discord.c99.nl/widget/theme-1/Kyrus#3440.png)
+![DISCORD](https://discord.c99.nl/widget/theme-2/Kyrus#3440.png)
 
 <h3 align="center">A passionate Discord Bot developer and automation script writer!! haha gotchya!</h3>
 
