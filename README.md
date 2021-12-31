@@ -2,9 +2,11 @@
 
 <h3 align="center">A passionate Discord Bot developer and automation script writer!! haha gotchya!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrusgg&label=Profile%20views&color=0e75b6&style=flat" alt="kyrusgg" /> </p>
+
+
    ![DISCORD](https://discord.c99.nl/widget/theme-1/467785927213973534.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrusgg&label=Profile%20views&color=0e75b6&style=flat" alt="kyrusgg" /> </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=KyrusGG&theme=onedark&column=3&margin-w=15&margin-h=15">
 
