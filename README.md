@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrusgg&label=Profile%20views&color=0e75b6&style=flat" alt="kyrusgg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyrusgg" alt="kyrusgg" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=KyrusGG&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 - 🌱 I’m currently learning **Node.js, React**
 
