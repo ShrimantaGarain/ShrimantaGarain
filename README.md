@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KyrusGG</h1>
+<h1 align="center">Hi 👋, I'm Shrimanta Garain</h1>
 
 <h3 align="center">A passionate Discord Bot developer and automation script writer!! haha gotchya!</h3>
 
