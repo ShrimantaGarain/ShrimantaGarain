@@ -2,17 +2,17 @@
 
 <h3 align="center">A passionate Discord Bot developer and automation script writer!! haha gotchya!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrusgg&label=Profile%20views&color=0e75b6&style=flat" alt="kyrusgg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShrimantaGarain&label=Profile%20views&color=0e75b6&style=flat" alt="ShrimantaGarain" /> </p>
 
 
    ![DISCORD](https://discord.c99.nl/widget/theme-1/467785927213973534.png)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=KyrusGG&theme=onedark&column=3&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=ShrimantaGarain&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 - 🌱 I’m currently learning **Node.js, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KyrusGG?tab=repositories](https://github.com/ShrimantaGarain?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ShrimantaGarain?tab=repositories](https://github.com/ShrimantaGarain?tab=repositories)
 
 - 📝 I regularly write articles on [https://freegamesupdates.blogspot.com/](https://freegamesupdates.blogspot.com/)
 
