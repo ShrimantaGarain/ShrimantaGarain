@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **shrimantag26@gmail.com**
 
-- ⚡ Quote : **I prefer bugs and glitches over hoes and bitches**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
