@@ -6,6 +6,8 @@
 
 
    ![DISCORD](https://discord.c99.nl/widget/theme-1/467785927213973534.png)
+   
+   <a href="https://discord.gg/mDpfe7W"><img align="right" src="https://discordapp.com/api/guilds/790164930083028993/embed.png?style=banner2" alt="Join us on Discord"></a>
 
 
 - 🌱 I’m currently learning **Node.js, React**
