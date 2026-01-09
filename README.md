@@ -31,14 +31,3 @@
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShrimantaGarain&theme=onestar&row=1&margin-w=15&margin-h=15"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrimantaGarain&show_icons=true&hide_border=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimantaGarain&layout=compact&hide_border=true&theme=tokyonight&hide=batchfile"/>
-</p>
